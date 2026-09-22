@@ -83,6 +83,16 @@ A Python application for adding, viewing, and searching employee records using l
 🔗 [View Project](./employee-record-management)
 ---
 
+### 📊 CSV Employee Record Management
+
+A Python application that stores, reads, and searches employee records using CSV files.
+
+**Concepts:** CSV, File Handling, `csv.reader()`, `csv.writer()`, Exception Handling, Loops
+
+🔗 [View Project](./csv-employee-records)
+---
+
+
 
 ## 🛠️ Technologies
 
