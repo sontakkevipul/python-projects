@@ -92,6 +92,15 @@ A Python application that stores, reads, and searches employee records using CSV
 🔗 [View Project](./csv-employee-records)
 ---
 
+### 📋 Linux Log File Analyzer
+
+A Python tool that reads application logs and analyzes `ERROR`, `WARNING`, and `INFO` messages.
+
+**Concepts:** File Handling, Log Analysis, Exception Handling, Loops, String Processing
+
+🔗 [View Project](./log-file-analyzer)
+---
+
 
 
 ## 🛠️ Technologies
