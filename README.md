@@ -74,6 +74,16 @@ A Python program for calculating subject-wise and overall marks using nested dic
 
 ---
 
+### 👨‍💼 Employee Record Management
+
+A Python application for adding, viewing, and searching employee records using lists and dictionaries.
+
+**Concepts:** Lists, Dictionaries, Loops, Searching, Menu-Driven Programming
+
+🔗 [View Project](./employee-record-management)
+---
+
+
 ## 🛠️ Technologies
 
 - Python
