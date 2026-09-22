@@ -1,0 +1,8 @@
+2026-09-22 09:00:01 INFO Application started
+2026-09-22 09:05:12 INFO User login successful
+2026-09-22 09:10:25 WARNING High memory usage
+2026-09-22 09:15:40 ERROR Database connection failed
+2026-09-22 09:20:11 INFO Request processed
+2026-09-22 09:25:33 ERROR API request failed
+2026-09-22 09:30:45 WARNING Disk usage is high
+2026-09-22 09:35:22 INFO Application running
